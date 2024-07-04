@@ -4,7 +4,7 @@
 Expertise in data analytics, data science, pattern recognition, machine learning, and deep learning. Experience in artificial intelligence and computer vision for digital image analysis.
 
 ## 🔧 Skills
-- Python
+- Python | Matlab
 <!--- | Django | Go
 - Virtualization with Docker
 - MongoDB and MySQL databases.
