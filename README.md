@@ -28,7 +28,7 @@ Expertise in data analytics, data science, pattern recognition, machine learning
 - I received the B.S. degree in Mechatronics Engineering from the Universidad Politécnica de Victoria in 2021.
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/juan-abdiel-sáenz-sánchez-bb2274284
+- LinkedIn: www.linkedin.com/in/jass06
 - Email: jabdiel.saenzs@outlook.com
 
 ## 🌱 Interests
